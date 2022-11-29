@@ -1,6 +1,6 @@
 {
   "name": "@joyshion/taro-plugin-platform-yunshanfu",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "云闪付小程序平台插件",
   "main": "index.js",
   "author": "Shion <shion.chow@gmail.com>",
