@@ -4,7 +4,7 @@ Taro云闪付小程序平台插件
 
 ## 安装
 ```bash
-yarn add @joyshion/taro-plugin-platform-yunshanfu --save-dev
+yarn add @joyshion/taro-plugin-platform-yunshanfu
 ```
 
 ### 配置
